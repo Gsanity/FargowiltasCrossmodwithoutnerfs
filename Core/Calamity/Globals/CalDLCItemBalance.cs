@@ -72,8 +72,6 @@ namespace FargowiltasCrossmod.Core.Calamity.Globals
             if (item.type == ModContent.ItemType<Eternity>()) return 0.4f;
             if (item.type == ModContent.ItemType<TheDanceofLight>()) return 0.5f;
             if (item.type == ModContent.ItemType<RainbowPartyCannon>()) return 0.6f;
-            if (item.type == ModContent.ItemType<NanoblackReaper>()) return 0.4f;
-            if (item.type == ModContent.ItemType<ScarletDevil>()) return 0.4f;
             if (item.type == ModContent.ItemType<TemporalUmbrella>()) return 0.35f;
             if (item.type == ModContent.ItemType<Endogenesis>()) return 0.35f;
             if (item.type == ModContent.ItemType<UniverseSplitter>()) return 0.5f;
